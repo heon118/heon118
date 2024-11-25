@@ -2,9 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ae2dd2,100:e19223&height=100&animation=&fontColor=939393&fontSize=40" />
 </div>
 <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 개발자 이승헌 </h2>  
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 개발자 이승헌 </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 백엔드 개발자(Java) <li>삼성청년SW아카데미(SSAFY) 수료 <li> 인공지능을 활용한 휴먼 포즈 제네레이션 시스템 개발자 양성 과정(playdata) 수료 <li>정보처리기사, 물류관리사, 유통관리사, 컴퓨터활용능력 1급
-  <li> 프로젝트 <ol> <li>삼성SDS 지능형 창고(기업연계) - 기업 요청사항으로 인한 코드 비공개 <li>타로 다이어리(SSAFY) <li>비대면 아동 연극(SSAFY) <li> 국제 대회 플랫폼 </ol></li>
+  <li> 프로젝트 <ol> <li>삼성SDS 지능형 창고(기업연계) - 기업 요청사항으로 인한 코드 비공개 <li>타로 다이어리(SSAFY) <li>비대면 아동 연극(SSAFY) <li> 국제 대회 플랫폼 </ol> <a href="https://aquatic-driver-6b8.notion.site/Portfolio-e32cefd450294bc1ade070f0235592ad?pvs=4"> My Portfolio 👈</a></li>
   </div> 
 </div>
     <div style="text-align: left;">
